@@ -259,3 +259,10 @@ body {
   max-width: 600px;
   border-radius: 8px;
 }
+
+button {
+  padding: 5px 10px;
+  background-color:#008080;
+  font-size: 17px;
+  border-radius: 7px;
+}
